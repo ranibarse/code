@@ -6,7 +6,5 @@ int main(){
     cin>>a>>b>>c;
     n = a+b+c;
     cout<<n;
-    
-
     return 0;
 }
